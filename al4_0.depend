@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525132055 source:/root/proj/al4_0/main.cpp
+	"game.h"
+
+1525113370 /root/proj/al4_0/game.h
+	<allegro.h>
+	<cstdio>
+
